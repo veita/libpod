@@ -14,10 +14,10 @@ require (
 	github.com/containers/buildah v1.22.3
 	github.com/containers/common v0.42.1
 	github.com/containers/conmon v2.0.20+incompatible
-	github.com/containers/image/v5 v5.15.2
+	github.com/containers/image/v5 v5.16.1
 	github.com/containers/ocicrypt v1.1.2
 	github.com/containers/psgo v1.5.2
-	github.com/containers/storage v1.34.1
+	github.com/containers/storage v1.37.0
 	github.com/coreos/go-systemd/v22 v22.3.2
 	github.com/coreos/stream-metadata-go v0.0.0-20210225230131-70edb9eb47b3
 	github.com/cri-o/ocicni v0.2.1-0.20210621164014-d0acc7862283
@@ -39,18 +39,18 @@ require (
 	github.com/gorilla/schema v1.2.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hpcloud/tail v1.0.0
-	github.com/json-iterator/go v1.1.11
+	github.com/json-iterator/go v1.1.12
 	github.com/mattn/go-colorable v0.1.8 // indirect
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635
 	github.com/mrunalp/fileutils v0.5.0
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.16.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
+	github.com/opencontainers/image-spec v1.0.2-0.20210819154149-5ad6f50d6283
 	github.com/opencontainers/runc v1.0.2
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/opencontainers/runtime-tools v0.9.0
-	github.com/opencontainers/selinux v1.8.4
+	github.com/opencontainers/selinux v1.8.5
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rootless-containers/rootlesskit v0.14.5
@@ -65,7 +65,7 @@ require (
 	go.etcd.io/bbolt v1.3.6
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/api v0.22.1
 	k8s.io/apimachinery v0.22.1
